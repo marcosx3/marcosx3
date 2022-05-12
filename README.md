@@ -1,6 +1,6 @@
 ## Olá ✌️
 
-   Meu nome é Marcos Oliveira, sou estudante do curso de Análise e Desenvolvimento de Sistemas pelo Centro Universitário Internacional - UNINTER.
+   Meu nome é Marcos Oliveira, conclui este ano o curso de Análise e Desenvolvimento de sistemas!
    <br><br>
 ### ⚖️ Atualmente estou me dedicando a aprender as seguintes linguagens:
 [![Blog](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)](https://www.oracle.com/java/)
