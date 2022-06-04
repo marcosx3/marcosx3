@@ -3,13 +3,12 @@
    Meu nome é Marcos Oliveira, conclui este ano o curso de Análise e Desenvolvimento de sistemas!
    <br><br>
 ### ⚖️ Atualmente estou me dedicando a aprender as seguintes linguagens:
-[![Blog](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)](https://www.oracle.com/java/)
+[![Blog](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)](https://www.php.net/)
 
-[![Blog](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/en/)
 
 ### Utilizo com mais frequencia os seguintes framework's / libs:
 
-[![Blog](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)](https://angular.io/)
+[![Blog](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)](https://laravel.com/)
 
 [![Blog](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)](https://getbootstrap.com/)
 
@@ -17,9 +16,6 @@
 [![Blog](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white
 )](https://www.postgresql.org/)
 
-
-### 🖥️ Apaixonado pelo mundo linux , Atualmente usando : 
-[![Blog](https://img.shields.io/badge/Linux_Mint-87CF3E?style=for-the-badge&logo=linux-mint&logoColor=white)](https://linuxmint.com/)
 
 ### Pequeno resumo das minhas atividades nessa plataforma:
 
